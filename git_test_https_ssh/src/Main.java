@@ -12,5 +12,8 @@ public class Main {
         System.out.println("这次会出现pull冲突的问题");
         System.out.println("这次会出现pull冲突的问题");
         System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();System.out.println();System.out.println();
     }
 }
