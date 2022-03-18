@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Test======================================");
         System.out.println("IDEA first commit!");
         System.out.println("IDEA second commit");
+        System.out.println("IDEA last commit");
     }
 }
