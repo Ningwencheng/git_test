@@ -10,6 +10,5 @@ public class Main {
         System.out.println("hot-fix test");
         System.out.println("push");
         System.out.println("Do you pull successful?");
-        System.out.println();
     }
 }
