@@ -9,5 +9,6 @@ public class Main {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("push");
+        System.out.println("这次不会出现pull冲突的问题");
     }
 }
