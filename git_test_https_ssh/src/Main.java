@@ -7,5 +7,6 @@ public class Main {
         System.out.println("=======================");
         System.out.println("hot-fix branch commit");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
